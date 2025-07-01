@@ -1,2 +1,6 @@
-# PowerBi-project 
-this is my project
+#FOOD AND BEVEARGES SALES ANALYSIS DASHBOARD"
+
+This project is designed to empower businesses in making informed decisions by analyzing product-level data. We worked with a comprehensive dataset containing information on various products, including their categories and groups. To begin, we cleaned and structured the data using Python and Power BI’s Power Query Editor — addressing issues such as duplicates and missing values. We created meaningful groupings and categorized products to better understand market segmentation and performance. Using Exploratory Data Analysis (EDA) in Python, we uncovered patterns in how different product groups and categories are distributed. These insights laid the groundwork for understanding trends in product variety and category focus, which can influence inventory strategies and marketing campaigns. We then visualized these insights through an interactive Power BI dashboard. This dashboard highlights key insights such as the most common product categories, product group diversity, and categorical distribution — helping stakeholders spot trends and opportunities for growth. Ultimately, this project illustrates how integrating data analysis and business intelligence tools can transform raw product data into strategic insights. This enables businesses to streamline operations, optimize product portfolios, and enhance overall profitability.
+
+![image](https://github.com/user-attachments/assets/0cff0781-8c85-4c36-b928-590a7aef5748)
+
